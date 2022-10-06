@@ -1,0 +1,18 @@
+body {
+  background-color: #A5C9CA;
+}
+
+hr {
+  border: 10px dotted;
+  border-style: none none dotted; /* I specified three styles so that the dotted would apply to only one side, and since the rest are unstyled the result is dots. Alternative is removing border style and making border-top: dotted;*/
+  border-width: 10px; /* height was deleted so the horizontal rule would disappear and the border more pronounced. */
+  border-color: #395B64; /* gotten from colorhunt.co */
+  width: 5%;
+}
+h1 {
+color: #395B64;
+}
+
+h3{
+color: #395B64;
+}
